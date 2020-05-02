@@ -5,9 +5,13 @@
     <td align="center" width="100%" valign="top" bgcolor="#FFFFFF">
      <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">
        <tr>
-	<img src="https://aseanyouthnet.files.wordpress.com/2020/04/img_5199.jpeg">
-         <td valign="top" class="preheaderContent">
-          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<img src="https://aseanyouthnet.files.wordpress.com/2020/04/img_5199.jpeg">    
+      </tr>
+     </table>
+     <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a href="https://aseanyouth.net/events/womenpreneurs/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/04/img_5201.jpg"</a>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
            <tr>
             <td valign="right" width="700" align="right">
              <div mc:edit="std_preheader_links">
@@ -16,12 +20,6 @@
 	          </td>
            </tr>
           </table>
-        </td>
-      </tr>
-     </table>
-     <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/events/womenpreneurs/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/04/img_5201.jpg"</a>
-      </table>
      <tr>
        <td align="center" valign="top">
          <table border="0" cellpading="0" cellspacing="0" width="900" id="templateFooter">
