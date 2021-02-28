@@ -13,7 +13,7 @@
       </table>
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
            <tr>
-            <td valign="right" width="700" align="right">
+            <td valign="center" width="700" align="center">
              <div mc:edit="std_preheader_links">
             <span style="font-size:20px">Do not see anything?<a href="https://aseanyouth.net/update/iwd/" target="_blank">Click here</a></span>
              </div>
