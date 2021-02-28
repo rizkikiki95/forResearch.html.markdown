@@ -8,7 +8,7 @@
 	<a href="https://aseanyouth.net/update/iwd/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/02/470f2286-9f06-4719-ad52-f8819478122c-e1614536255930.jpg"</a>    
       </tr>
      </table>
-     <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody">
+     <table border="0" cellpadding="0" cellspacing="0" width="80%" id="templateBody">
 	 <a href="https://aseanyouth.net/update/equalityinworkplace/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/02/Women-Empowerment-Equality-In-Workplace-01.jpg"</a>
       </table>
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
