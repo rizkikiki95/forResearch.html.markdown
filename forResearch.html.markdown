@@ -39,7 +39,7 @@
                 <tr>
                  <td align="center" valign="middle" width="900" bgcolor="#f1f1f2">
                   <div mc:edit="std_footer">
-		   <h4 class="h4"><span style="font-size:14px">Copyright &copy; | 2020 | A.Y.O.<br/><b>All rights reserved</b></span></h6>
+		   <h4 class="h4"><span style="font-size:14px">Copyright &copy; | 2021 | A.Y.O.<br/><b>All rights reserved</b></span></h6>
                   </div>
                  </td>
                  <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#f1f1f2">
