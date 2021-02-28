@@ -5,7 +5,7 @@
     <td align="center" width="90%" valign="top" bgcolor="#FFFFFF">
      <table border="0" cellpadding="0" cellspacing="0" width="90%" id="templatePreheader">
        <tr>
-	<a href="https://aseanyouth.net/update/iwd/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/02/470f2286-9f06-4719-ad52-f8819478122c.jpg"</a>    
+	<a href="https://aseanyouth.net/update/iwd/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/02/470f2286-9f06-4719-ad52-f8819478122c-e1614536109465.jpg"</a>    
       </tr>
      </table>
      <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
