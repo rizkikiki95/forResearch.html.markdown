@@ -2,7 +2,7 @@
 <body style="margin" border:"0" padding: 0;">
  <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="600px" id="backgroundTable">
    <tr>
-    <td align="center" width="100%" valign="top" bgcolor="#FFFFFF">
+    <td align="center" width="90%" valign="top" bgcolor="#FFFFFF">
      <table border="0" cellpadding="0" cellspacing="0" width="90%" id="templatePreheader">
        <tr>
 	<a href="https://aseanyouth.net/update/iwd/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/02/470f2286-9f06-4719-ad52-f8819478122c.jpg"</a>    
