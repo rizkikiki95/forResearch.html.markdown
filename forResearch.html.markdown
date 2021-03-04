@@ -5,17 +5,17 @@
     <td align="center" width="100%" valign="top" bgcolor="#FFFFFF">
      <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">
        <tr>
-	<a href="https://aseanyouth.net/update/iwd/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-01-at-01.37.57-e1614560661550.jpeg" alt="In conjunction with International Women’s Day, 8 March 2021, ASEAN Youth Organization is organizing a Virtual Panel on ‘Inspire the Next Generation Young Women Leaders’"</a>    
+	<a href="https://aseanyouth.net/ambassador/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-01-scaled.jpg" width="700" height="700" alt="The AYO Ambassador Program aims to establish an ASEAN-wide network of youths across Southeast Asia who will serve as the point lead for outreach in a designated region. As a medium for youth empowerment, the program works with participants to implement projects that address either an ASEAN-wide or community-based issue of their interest."</a>    
       </tr>
      </table>
      <table border="0" cellpadding="5" cellspacing="0" width="80%" id="templateBody">
-	 <a href="https://aseanyouth.net/update/equalityinworkplace/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/02/Women-Empowerment-Equality-In-Workplace-01.jpg"</a>
+	 <a href="https://aseanyouth.net/ambassador/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-06.png" width="700" height="700"</a>
       </table>
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
            <tr>
             <td valign="center" width="700" align="center">
              <div mc:edit="std_preheader_links">
-            <span style="font-size:20px">Do not see anything?<a href="https://aseanyouth.net/update/iwd/" target="_blank">Click here</a></span>
+            <span style="font-size:20px">Do not see anything?<a href="https://aseanyouth.net/ambassador/" target="_blank">Click here</a></span>
              </div>
 	          </td>
            </tr>
