@@ -8,6 +8,9 @@
 	<a href="https://aseanyouth.net/ambassador/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-01-scaled.jpg" width="700" height="700" alt="The AYO Ambassador Program aims to establish an ASEAN-wide network of youths across Southeast Asia who will serve as the point lead for outreach in a designated region. As a medium for youth empowerment, the program works with participants to implement projects that address either an ASEAN-wide or community-based issue of their interest."</a>    
       </tr>
      </table>
+     <table border="0" cellpadding="5" cellspacing="0" width="100%" id="templateBody">
+	<a href="https://aseanyouth.net/ambassador/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/Red_register_small-copy.png"</a>
+	</table>
      <table border="0" cellpadding="5" cellspacing="0" width="80%" id="templateBody">
 	 <a href="https://aseanyouth.net/ambassador/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-06.png" width="700" height="700"</a>
       </table>
