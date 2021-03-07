@@ -62,7 +62,7 @@
             </tr>
             <tr>
             <td align="center" valign="center" width="100%" bgcolor="#FEF4DA">
-                <align="center" valign="center" width="50%"><img size="50%" src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-01-scaled.jpg">
+                <align="center" valign="center" width="50%"><img size="50%" src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-01_2.jpg">
               </td>
             </tr>
             <tr>
