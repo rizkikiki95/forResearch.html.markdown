@@ -62,7 +62,7 @@
             </tr>
             <tr>
             <td align="center" valign="center" width="100%" bgcolor="#FEF4DA">
-                <align="center" valign="center" width="50%"><img size="50%" src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-01_2.jpg">
+                <align="center" valign="center" width="50%"><img size="50%" src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-01_2.jpg" alt="Hi ASEANers!👋🏼 The wait is over! Are you the one who wants to make impacts on the ASEAN Community from the local scale into the international scale?">
               </td>
             </tr>
             <tr>
