@@ -62,7 +62,10 @@
             </tr>
             <tr>
             <td align="center" valign="center" width="100%" bgcolor="#FEF4DA">
-                <align="center" valign="center" width="50%"><img size="50%" src="https://aseanyouth.net/wp-content/uploads/2021/03/Open-Recruitment-01_2.jpg" alt="Hi ASEANers!👋🏼 The wait is over! Are you the one who wants to make impacts on the ASEAN Community from the local scale into the international scale?">
+                <align="center" valign="center" width="50%"><img size="50%" src="https://aseanyouth.net/wp-content/uploads/2021/03/IMG-20210314-WA0007-e1615743253177.jpg" alt="Hello Everyone! 👋🏼
+
+In conjunction with International Women's Day,
+, ASEAN Youth India is organising a Webinar on Zoo">
               </td>
             </tr>
             <tr>
@@ -71,7 +74,7 @@
               </table>
               </td>
             </tr>
-            <td align="center" valign="top" width="600px"><a href="https://aseanyouth.net/ambassador/" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/Red_register_small-copy.png"</a>
+            <td align="center" valign="top" width="600px"><a href="https://forms.gle/PSyGgt85yzpLxzpb8" target"_blank"><img src="https://aseanyouth.net/wp-content/uploads/2021/03/Red_register_small-copy.png"</a>
 							</td>
             </tr>
             </tr>
